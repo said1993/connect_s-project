@@ -2,6 +2,7 @@
 ![Alt Text](https://github.com/said1993/connect_s-project/blob/main/connects_logo-7.png)
 
 connect_s is microservices application is designed to handle meetup and event management. The application is divided into several small, independently deployable services, each with a specific responsibility.
+We will use the latest technologies and best practices to develop our application with [.NET 7] and [Reactjs], including a microservices architecture, cloud-native principles and containerization using Kubernetes (K8s) and Azure for deployment and orchestration. We will also implemente continuous integration and continuous delivery (CICD)
 
 ## Services
 
@@ -9,6 +10,6 @@ connect_s is microservices application is designed to handle meetup and event ma
 - [Events service](https://github.com/said1993/connect_s-events): An event service that manages the creation, update, and retrieval of events.
 - And other services in progress.
 
-# Open Source and Hosted on GitHub
+## Open Source and Hosted on GitHub
 
 Our application is open source and hosted on GitHub, where you can find the code and documentation for each service, as well as instructions for running and deploying the application.
