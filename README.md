@@ -1,5 +1,5 @@
 # connect_s-project: Meetup and Event Management Microservices Application
-[image_url](https://github.com/said1993/connect_s-project/blob/main/connects_logo-7.png)
+![Alt Text](https://github.com/said1993/connect_s-project/blob/main/connects_logo-7.png)
 
 connect_s is microservices application is designed to handle meetup and event management. The application is divided into several small, independently deployable services, each with a specific responsibility.
 
