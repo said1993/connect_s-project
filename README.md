@@ -6,7 +6,7 @@ connect_s is microservices application is designed to handle meetup and event ma
 ## Services
 
 - A user service that handles user registration, authentication, and authorization (In progress, I will add it later).
-- An event service that manages the creation, update, and retrieval of events: [events service] (https://github.com/said1993/connect_s-events) .
+- An event service that manages the creation, update, and retrieval of events: [events service](https://github.com/said1993/connect_s-events) .
 - And other services in progress.
 
 # Open Source and Hosted on GitHub
